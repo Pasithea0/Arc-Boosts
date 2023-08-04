@@ -3,15 +3,6 @@
 #### Insert this JS into the boost:
 
 ```
-// ==UserScript==
-// @name         YouTube to piped.video Redirector
-// @version      0.1
-// @description  Redirect YouTube links to piped.video
-// @author       Pasithea0
-// @match        https://www.youtube.com/*
-// @grant        none
-// ==/UserScript==
-
 (function() {
     'use strict';
 
