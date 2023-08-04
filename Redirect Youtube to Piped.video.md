@@ -1,3 +1,8 @@
+### A very simple Arc boost that simply redirects all youtube links to piped.video.
+
+#### Insert this JS into the boost:
+
+```
 // ==UserScript==
 // @name         YouTube to piped.video Redirector
 // @version      0.1
@@ -20,3 +25,4 @@
         window.location.href = pipedVideoURL;
     }
 })();
+```
