@@ -1,5 +1,5 @@
 ## Wide Github
-###Makes most of Github fill your whole screen!
+### Makes most of Github fill your whole screen!
 
 #### Add CSS and JS to your boost
 
