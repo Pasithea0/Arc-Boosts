@@ -17,3 +17,7 @@
     }
 })();
 ```
+
+Optionally you can replace the URL in quotations to your decided Youtube proxy.
+```const pipedVideoURL = "https://example.site/v/" + videoID;```
+
